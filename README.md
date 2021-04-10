@@ -1,4 +1,4 @@
-    This is a desktop app that allows manipulating the spreadsheet  by using Google Sheets API and Gmail API. Client might order specified products. All basic funcionalities are developed in spreadsheet by formulas. Below  are listed functions that this app gives.
+This is a desktop app that allows manipulating the spreadsheet  by using Google Sheets API and Gmail API. Client might order specified products. All basic funcionalities are developed in spreadsheet by formulas. Below  are listed functions that this app gives.
 1. Create event:
 - create a new sheet by duplicating the specified sheet.
 - get data that optimize time needed to create description of event (for example for creating facebook event).
