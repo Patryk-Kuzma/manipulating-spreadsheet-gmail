@@ -9,3 +9,10 @@ This is a desktop app that allows manipulating the spreadsheet  by using Google 
 - read the products ordered by buyer
 - create .docx file with order info
 - send created file by e-mail
+
+So as to use that code You need create credentials and tokens that allows manipulate from desktop with spreadsheet files in Your account and send it by gmail. It is shown in links below. In the Jie Jenn channel are also more useful things.
+
+References:
+- https://developers.google.com/sheets/api/quickstart/python
+- https://www.youtube.com/watch?v=sAgWCbGMzTo&ab_channel=JieJenn
+- https://www.youtube.com/watch?v=7X3fBlMw_1k&ab_channel=JieJenn
